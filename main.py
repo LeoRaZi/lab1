@@ -1,1 +1,1 @@
-print('hello mazafaka')
+print('hello world')
